@@ -7,7 +7,7 @@ var clearBtn = document.getElementById('clearBtn');
 var filterBtns = document.querySelectorAll('.filter-btn');
 
 // متغير لتخزين الفلتر الحالي
-var currentFilter = 'all';
+var currentFilter = 'all'; 
 
 // تحميل المهام عند فتح الصفحة
 loadTasks();
