@@ -1,2 +1,7 @@
-# frontend-projects
-مشاريع واجهات ويب باستخدام HTML وCSS وJavaScript
+# Frontend Projects
+
+مجموعة مشاريع واجهات ويب باستخدام:
+
+HTML
+CSS
+JavaScript
